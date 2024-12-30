@@ -1,0 +1,15 @@
+[package]
+name = "pestrings"
+version = "0.0.1"
+edition = "2021"
+authors = ["Stipulations"]
+description = "A tool to extract and display strings from an executable file."
+license = "MIT"
+repository = "https://github.com/Stipulations/pestrings"
+keywords = ["strings", "binary", "executable", "tool"]
+categories = ["command-line-utilities"]
+homepage = "https://github.com/Stipulations/pestrings"
+documentation = "https://docs.rs/pestrings"
+readme = "README.md"
+
+[dependencies]
